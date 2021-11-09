@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">⚠️ Projeto em construção ⚠️</p>
-<img align="center" src="./assets/img/smartSpace.gif">
+<img align="center" src="./assets/img/SmartSpace.gif">
 <br>
 <br>
 
